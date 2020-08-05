@@ -1,6 +1,6 @@
 ### 
 
-Hi, I'm Myrian Katto, a Full Stack Developer focused on creative solutions. 
+<h2>Hi, I'm Myrian Katto, a Full Stack Developer focused on creative solutions. </h2>
 
 <!--
 **myriankatto/myriankatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭  &nbsp; I’m currently working with JavaScript, React, MongoDB, Express, Node.js, HTML and CSS.
+</br>
 🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase and more.
 </br>
-🔭  &nbsp; I’m currently working with JavaScript, React, MongoDB, Express, Node.js, HTML and CSS.
+✨ &nbsp; My background is Graphic Design.
+</br>
+🦄  &nbsp; Check my Portfolio [here](https://www.myriankatto.com).
+
+
+
+![myriankatto's github stats](https://github-readme-stats.vercel.app/api?username=myriankatto&show_icons=true&theme=buefy)
 
  
  <br/> :coffee: &nbsp; Let's have a coffee? [Schedule here!](https://calendly.com/myriankatto)
