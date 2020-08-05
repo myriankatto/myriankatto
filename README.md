@@ -1,6 +1,5 @@
-### 
-
-<h2>Hi, I'm Myrian Katto, a Full Stack Developer focused on creative solutions. </h2>
+### Hi, I'm [Myrian Katto](https://www.myriankatto.com),
+<h4>I'm Full Stack Developer focused on creative solutions, based in Florianópolis - Brazil. </h4>
 
 <!--
 **myriankatto/myriankatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 -->
 🔭  &nbsp; I’m currently working with JavaScript, React, MongoDB, Express, Node.js, HTML and CSS.
 </br>
-🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase and more.
+🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase, React Native and more.
 </br>
 ✨ &nbsp; My background is Graphic Design.
 </br>
