@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase ...
+🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase and more.
 </br>
 🔭  &nbsp; I’m currently working with JavaScript, React, MongoDB, Express, Node.js, HTML and CSS.
 
