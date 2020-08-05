@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+Hi, I'm Myrian Katto, a Full Stack Developer focused on creative solutions. 
 
 <!--
 **myriankatto/myriankatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase ...
+</br>
+🔭  &nbsp; I’m currently working with JavaScript, React, MongoDB, Express, Node.js, HTML and CSS.
+
+ 
+ <br/> :coffee: &nbsp; Let's have a coffee? [Schedule here!](https://calendly.com/myriankatto)
+
+
+[![Gmail Badge](https://img.shields.io/badge/-myriankatto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myriankatto@gmail.com)](mailto:myriankatto@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-myriankatto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myrian-katto-2792a921/)](https://www.linkedin.com/in/myrian-katto-2792a921/) [![Instagram Badge](http://img.shields.io/badge/-myrionn-8134AF?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/myrionn/)](https://www.instagram.com/myrionn/) 
+
+
