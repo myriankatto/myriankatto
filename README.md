@@ -1,4 +1,4 @@
-### Hi, I'm [Myrian Katto](https://www.myriankatto.com),
+### Hi, I'm [Myrian Katto](https://www.myriankatto.com).
 <h4>I'm a Full Stack Developer focused on creative solutions, based in Florianópolis - Brazil. </h4>
 
 <!--
