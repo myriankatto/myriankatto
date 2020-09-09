@@ -1,3 +1,4 @@
+
 ### Hi, I'm [Myrian Katto](https://www.myriankatto.com).
 <h4>I'm a Full Stack Developer focused on creative solutions, based in Florianópolis - Brazil. </h4>
 
@@ -19,9 +20,11 @@ Here are some ideas to get you started:
 </br>
 🌱  &nbsp; I’m currently learning Typescript, Redux, React Native and more.
 </br>
+✨  &nbsp;I’m curious about the whole visual part of the web, mainly its usability and accessibility. 
+</br>
 🧞‍♀️  &nbsp; My goal is to make the web easy to use, beautiful and accessible to all.
 </br>
-✨ &nbsp; My background is Graphic Design.
+👩‍🎨 &nbsp; My background is Graphic Design.
 </br>
 🦄  &nbsp; Check my Portfolio [here](https://www.myriankatto.com).
 
