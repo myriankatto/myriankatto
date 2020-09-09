@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 🔭  &nbsp; I’m currently working with JavaScript, React, MongoDB, Express, Node.js, HTML and CSS.
 </br>
-🌱  &nbsp; I’m currently learning Typescript, Redux, Firebase, React Native and more.
+🌱  &nbsp; I’m currently learning Typescript, Redux, React Native and more.
+</br>
+🧞‍♀️  &nbsp; My goal is to make the web easy to use, beautiful and accessible to all.
 </br>
 ✨ &nbsp; My background is Graphic Design.
 </br>
