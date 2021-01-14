@@ -1,6 +1,6 @@
 
 ### Hi, I'm [Myrian Katto](https://www.myriankatto.com).
-<h4>I'm a developer focused on creative solutions, based in Florianópolis - Brazil. </h4>
+<h4>I'm a frontend developer focused on creative solutions, based in Florianópolis - Brazil. </h4>
 
 <!--
 **myriankatto/myriankatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
